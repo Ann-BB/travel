@@ -1,0 +1,15 @@
+.language-selection {
+  position: relative; 
+  z-index: 100;
+} 
+
+.language-options {
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: auto;
+  top: 120%;
+  color: #fff;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);  
+  border-radius: 50%; 
+} 

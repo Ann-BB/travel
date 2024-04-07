@@ -1,0 +1,12 @@
+<swiper-container  
+    #swiper class="swiper px-3" direction="horizontal"   
+    [slidesPerView]="'4.5'"
+    [loop]="true"
+    [speed]="300" 
+    autoplay="false" >
+    @for (item of viewSlider; track $index) {
+      <swiper-slide > 
+        <app-info-card [slide]="item" [cardConfig]="cardConfig"/> 
+    </swiper-slide>
+    } 
+</swiper-container> 

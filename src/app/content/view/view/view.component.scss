@@ -1,0 +1,27 @@
+.slider-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 15px;
+
+  .first {
+    color: var(--color-black--tint);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+    margin-left: 18%; 
+  }
+
+  .view {
+    color: var(--color-primary);
+    font-family: var(--font-base--caps);
+    font-size: var(--font-size--base);
+    line-height: 16px;
+    transition: all 0.2s ease;
+    font-weight: 500;
+
+    &:hover {
+      color: var(--color-black--tint);
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.header {  
+  transition: background-color 0.3s ease;
+  &.header-fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    margin: auto;
+    background-color: #fff;
+  }
+}

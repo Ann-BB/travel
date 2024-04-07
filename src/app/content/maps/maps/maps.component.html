@@ -1,0 +1,17 @@
+<!-- setting height and width respectively, 
+  and calling our three functions -->
+  <div class="mx-auto mt-28 flex justify-center items-center gap-8">
+    <google-map height="400px"
+    width="750px"
+    [center]="center"
+    [zoom]="zoom"
+    (mapMousemove)="move($event)">
+  </google-map>
+  
+  <!-- displaying real-time location -->
+  <div class="w-40"> 
+    <div>Latitude: {{display?.lat}}</div>
+    <div>Longitude: {{display?.lng}}</div>
+  </div>
+
+  </div>

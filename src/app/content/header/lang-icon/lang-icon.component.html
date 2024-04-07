@@ -1,0 +1,12 @@
+<div class="language-selection flex justify-between cursor-pointer">
+    <button class="language-select-btn form-control m-auto text-orange-300" (click)="toggleLanguageOptions()"
+        (mouseenter)="toggleLanguageOptions()">
+        <img class="w-5 h-5" [src]="'assets/img/' + currentLanguage +'.svg'" alt="">
+    </button>
+    <div class="language-options" *ngIf="languageOptionsVisible">
+        <img *ngIf="currentLanguage !== 'ka'" (click)="selectLanguage('ka', 'ka')" data-value="ka" class="w-5 h-5 cursor-pointer"
+            src="assets/img/ka.svg" alt="">
+        <img *ngIf="currentLanguage !== 'en'" (click)="selectLanguage('en', 'en')" data-value="en" class="w-5 h-5 cursor-pointer"
+            src="assets/img/en.svg" alt="">
+    </div>
+</div>

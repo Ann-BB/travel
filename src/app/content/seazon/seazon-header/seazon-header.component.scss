@@ -1,0 +1,21 @@
+.seazon-header {
+  width: 60%;
+  display: grid; 
+  grid-template-columns: 1fr 1.2fr;
+  grid-gap: 120px; 
+
+  .row-1 {
+    font-size: var(--font-size--4x-large);
+    color: var(--color-black--tint);
+    line-height: 1;
+    font-weight: 600;
+  }
+
+  .row-2 {
+    font-size: var(--font-size--medium);
+
+    color: var(--color-grey);
+    font-size: var(--font-size--small);
+    line-height: 1.5;
+  }
+}

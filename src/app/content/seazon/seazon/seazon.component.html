@@ -1,0 +1,6 @@
+<app-seazon-header />
+<div class="seazon-wrapper">
+  @for (item of seazonData; track $index) {
+  <app-info-card [slide]="item" [cardConfig]="cardConfig" />
+  }
+</div>

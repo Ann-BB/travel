@@ -1,0 +1,16 @@
+@if(slide && cardConfig) {
+<div class="slide" [style.width]="cardConfig.widthSize" [style.height]="cardConfig.heightSize">
+  <img class="img" [src]="slide.imgBg" alt="">
+
+  @if (slide.loveIcon) {
+   <fa-icon class="heart-icon text-lg" [icon]="faHeart"></fa-icon>
+  }
+  <div class="app-row">
+    <span class="row-1">{{slide.title | translate}}</span>
+    @if (slide.describe) {
+     <span class="row-2">{{slide.describe | translate}}</span>
+    }
+  </div>
+</div>
+
+}

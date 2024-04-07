@@ -1,0 +1,14 @@
+<swiper-container #swiper class="swiper" direction="horizontal" [slidesPerView]="'auto'" [loop]="true" [speed]="300"
+  autoplay="false">
+  @for (item of mainSlider; track $index) {
+  <swiper-slide>
+    <app-main-slider-item [slide]="item" />
+  </swiper-slide>
+  }
+</swiper-container>
+<!-- autoplay-delay="2500" autoplay-disable-on-interaction="false" -->
+
+<!-- <swiper-container class="swiper" direction="horizontal" [loop]="true"
+[pagination]="true"
+[navigation]="true"
+autoplay="true"> -->
