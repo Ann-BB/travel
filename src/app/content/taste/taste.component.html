@@ -1,0 +1,17 @@
+<div class="taste">
+  <div class="text-wrap">
+    <div class="header-first">{{"TASTE_HEADER_1" | translate}} </div>
+    <div class="header-second">{{"TASTE_HEADER_2" | translate}} </div>
+    <div class="text">{{"TASTE_TEXT" | translate}}</div>
+
+    <a class="btn-1 transparent" target="_self" href="https://georgia.travel/regions/kakheti">
+      <span class="mr-1"> {{"TASTE_BUTTON" | translate}} </span>
+      <fa-icon [icon]="faArrowRight"></fa-icon>
+    </a>
+  </div>
+  <div class="card-wrap">
+    @for (item of tasteData; track $index) {
+    <app-info-card [slide]="item" [cardConfig]="cardConfig" />
+    }
+  </div>
+</div>

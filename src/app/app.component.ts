@@ -8,11 +8,12 @@ import { MainSliderComponent } from './content/main-slider/main-slider/main-slid
 import { ViewComponent } from './content/view/view/view.component';
 import { SeazonComponent } from './content/seazon/seazon/seazon.component';
 import { MapsComponent } from './content/maps/maps/maps.component';
+import { TasteComponent } from './content/taste/taste.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent],
+  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent, TasteComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
