@@ -1,13 +1,17 @@
 export interface HedaerList {
   title: string;
-  section: ISections | ISection;
+  section: ISections;
 }
-
 export interface ISections {
-  [name: string]: string[];
+  list: IList;
+  imgContent?: IImgContent[];
 }
 
-export interface ISection {
+export interface IImgContent {
+  title: string;
   imgUrl: string;
-  title: string
+  imgText: string;
+}
+export interface IList {
+ [name: string]: string[]
 }

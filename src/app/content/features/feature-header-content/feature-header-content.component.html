@@ -1,0 +1,18 @@
+@if(list) {
+<div class="text-black flex  justify-around">
+  @for(item of list|keyvalue; track item) {
+    <div class="flex flex-col"> 
+      <div class="">
+        @for(key of item.key; let i=$index; track i) {
+        <span>{{key}}</span>
+        }
+      </div>
+      <div class="flex flex-col justify-between">
+        @for(value of item.value; let i=$index; track i) {
+        <span>{{value}}</span>
+        }
+      </div>
+    </div>
+  }
+</div>
+}

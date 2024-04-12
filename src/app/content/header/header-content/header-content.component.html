@@ -1,20 +1,7 @@
 <div [class.header-fixed]="fixed"
- class="header flex justify-between align-middle items-center w-full h-28 fixed text-white hover:bg-white hover:text-black px-6 py-3 z-10 left-0 top-0">
+ class="header flex justify-between align-middle items-center w-full h-28 fixed text-white hover:bg-white hover:text-black px-6 z-10 left-0 top-0">
   <img class="main-logo w-28 object-contain" src="assets/main-logo.svg" alt="main logo travel">
-  <!-- <app-header-list /> -->
-  <div class="header-txt w-3/4 flex justify-around text-black-300">
-    <span>
-      {{"List_1" | translate}}
-    </span>
-    <span>
-      {{"List_2" | translate}}
-    </span>
-    <span>
-      {{"List_3" | translate}}
-    </span>
-    <span>
-      {{"List_4" | translate}}
-    </span>
-  </div>
+  <app-header-list class="h-full" /> 
   <app-header-icons />
 </div>
+ 

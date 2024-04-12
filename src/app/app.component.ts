@@ -10,11 +10,12 @@ import { SeazonComponent } from './content/seazon/seazon/seazon.component';
 import { MapsComponent } from './content/maps/maps/maps.component';
 import { TasteComponent } from './content/taste/taste.component';
 import { WineBgComponent } from './content/wine-bg/wine-bg.component';
+import { ContactComponent } from './content/contact/contact/contact.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent, TasteComponent, WineBgComponent],
+  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent, TasteComponent, WineBgComponent, ContactComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
