@@ -3,9 +3,31 @@
 }
 
 .feature-header {
-  position: fixed; 
+  position: fixed;
   left: 0;
   width: 100vw;
   top: 112px;
   background-color: #fff;
+}
+
+.costm-item {
+  position: relative;
+
+  &.active {
+    &::after { 
+      transform: scaleX(1);
+    }
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    transform: scaleX(0);
+    background-color: var(--color-primary);
+    transition: transform .2s ease;
+  }
 }

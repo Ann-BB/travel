@@ -1,11 +1,9 @@
-@if(list) {
-<div class="text-black flex  justify-around">
-  @for(item of list|keyvalue; track item) {
-    <div class="flex flex-col"> 
+<div class="flex justify-around text-black pt-14">
+  @if(list) {
+    @for(item of list|keyvalue; track item) {
+    <div class="flex flex-col">
       <div class="">
-        @for(key of item.key; let i=$index; track i) {
-        <span>{{key}}</span>
-        }
+        {{item.key}} 
       </div>
       <div class="flex flex-col justify-between">
         @for(value of item.value; let i=$index; track i) {
@@ -13,6 +11,13 @@
         }
       </div>
     </div>
+    }
+  }
+  @if(imgContent) {
+    @for(imgItem of imgContent; track imgItem) {
+    <div>
+      <app-info-card [slide]="imgItem" [cardConfig]="cardConfig" />
+    </div>
+    }
   }
 </div>
-}

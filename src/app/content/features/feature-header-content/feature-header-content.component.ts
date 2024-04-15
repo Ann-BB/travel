@@ -1,11 +1,13 @@
-import { CUSTOM_ELEMENTS_SCHEMA, Component, Input, OnInit, SimpleChanges, input } from '@angular/core';
-import { IList, ISections } from '../../../models/hedaer-list';
+import { CUSTOM_ELEMENTS_SCHEMA, Component, Input, OnInit, SimpleChanges } from '@angular/core';
+import { IImgContent, IList, ISections } from '../../../models/hedaer-list';
 import { CommonModule } from '@angular/common';
+import { InfoCardComponent } from '../info-card/info-card.component';
+import { ICardConfig } from '../../../models/card.config';
 
 @Component({
   selector: 'app-feature-header-content',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, InfoCardComponent],
   templateUrl: './feature-header-content.component.html',
   styleUrl: './feature-header-content.component.scss',
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
@@ -14,6 +16,11 @@ export class FeatureHeaderContentComponent implements OnInit {
 
   @Input('activeHeaderContent') content?: ISections;
   list?: IList;
+  imgContent?: IImgContent[];
+  cardConfig: ICardConfig = { 
+    widthSize: '252px',
+    heightSize: '300px'
+  }
   constructor() { }
 
   ngOnInit() {
@@ -26,6 +33,7 @@ export class FeatureHeaderContentComponent implements OnInit {
   runThisLogic(): void {
     // logic in here
     this.list = this.content?.list;
+    this.imgContent = this.content?.imgContent;
     console.log(this.content, "activeHeaderContent", this.list, "this.list")
 
   }

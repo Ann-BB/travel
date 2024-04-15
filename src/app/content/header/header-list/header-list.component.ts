@@ -14,10 +14,11 @@ import { CommonModule } from '@angular/common';
 })
 export class HeaderListComponent {
 
-  @ViewChild('list') eRef!: ElementRef; 
+  @ViewChildren('list') listElements!: QueryList<ElementRef>;
 
   headerList: HedaerList[] = [
     {
+      id: 0,
       title: "HEADER_TITLE_1",
       section: {
         list: {
@@ -28,13 +29,13 @@ export class HeaderListComponent {
         imgContent: [
           {
             title: "HEADER_IMG_TITLE_1",
-            imgUrl: "assets/img/header-img-1",
-            imgText: "HEADER_IMG_TEXT_1",
+            imgBg: "assets/img/header-img-1" 
           }
         ]
       }
     },
     {
+      id: 1,
       title: "HEADER_TITLE_2",
       section: {
         list: {
@@ -44,6 +45,7 @@ export class HeaderListComponent {
       }
     },
     {
+      id: 2,
       title: "HEADER_TITLE_3",
       section: {
         list: {
@@ -53,18 +55,17 @@ export class HeaderListComponent {
         imgContent: [
           {
             title: "HEADER_IMG_TITLE_3",
-            imgUrl: "assets/img/header-img-1",
-            imgText: "HEADER_IMG_TEXT_3",
+            imgBg: "assets/img/header-img-1" 
           },
           {
             title: "HEADER_IMG_TITLE_3",
-            imgUrl: "assets/img/header-img-1",
-            imgText: "HEADER_IMG_TEXT_3",
+            imgBg: "assets/img/header-img-1"   
           }
         ]
       }
     },
     {
+      id: 3,
       title: "HEADER_TITLE_4",
       section: {
         list: {
@@ -74,19 +75,18 @@ export class HeaderListComponent {
         imgContent: [
           {
             title: "HEADER_IMG_TITLE_4",
-            imgUrl: "assets/img/header-img-1",
-            imgText: "HEADER_IMG_TEXT_4",
+            imgBg: "assets/img/header-img-1" 
           },
           {
             title: "HEADER_IMG_TITLE_4",
-            imgUrl: "assets/img/header-img-1",
-            imgText: "HEADER_IMG_TEXT_4",
+            imgBg: "assets/img/header-img-1" 
           }
         ]
       }
     },
   ]
   activeHeaderContent?: ISections;
+  activeIndex?: number;
   constructor(private changeDetectorRefs: ChangeDetectorRef) { }
 
   ngOnInit(): void {
@@ -94,15 +94,16 @@ export class HeaderListComponent {
 
   handleActiveItem(item: HedaerList) {
     this.activeHeaderContent = item.section;
+    this.activeIndex = item.id;
     console.log(this.activeHeaderContent, "activeHeaderContent")
     this.changeDetectorRefs.detectChanges();
   }
-
+ 
   @HostListener('document:click', ['$event'])
   clickout(event: PointerEvent) { 
-    console.log(event.target, "event.target")
-    if(event.target !== this.eRef.nativeElement ) {  
+    if (!this.listElements.some(element => element.nativeElement.contains(event.target))) {
       this.activeHeaderContent = undefined;
+      this.activeIndex = undefined;
       this.changeDetectorRefs.detectChanges(); 
     }  
   }

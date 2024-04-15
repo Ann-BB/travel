@@ -1,6 +1,6 @@
 <div class="header-txt flex justify-around items-center h-full text-black-300">
-  @for(item of headerList; track item) {
-  <span #list (click)="handleActiveItem(item)" class="flex items-center h-full cursor-pointer">
+  @for(item of headerList; track item; let index = $index) {
+  <span #list (click)="handleActiveItem(item)" [class.active]="index == activeIndex" class="costm-item flex items-center h-full cursor-pointer">
     {{item.title | translate}}
   </span>
   }

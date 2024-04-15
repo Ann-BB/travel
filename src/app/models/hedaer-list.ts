@@ -1,4 +1,5 @@
 export interface HedaerList {
+  id: number;
   title: string;
   section: ISections;
 }
@@ -9,8 +10,7 @@ export interface ISections {
 
 export interface IImgContent {
   title: string;
-  imgUrl: string;
-  imgText: string;
+  imgBg: string; 
 }
 export interface IList {
  [name: string]: string[]
