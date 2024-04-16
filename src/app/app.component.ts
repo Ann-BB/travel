@@ -12,11 +12,12 @@ import { TasteComponent } from './content/taste/taste.component';
 import { WineBgComponent } from './content/wine-bg/wine-bg.component';
 import { ContactComponent } from './content/contact/contact/contact.component';
 import { ContactWithMapComponent } from './content/contact-with-map/contact-with-map.component';
+import { FooterComponent } from './content/footer/footer.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent, TasteComponent, WineBgComponent, ContactComponent, ContactWithMapComponent],
+  imports: [CommonModule, HttpClientModule, TranslateModule, RouterOutlet, HeaderContentComponent, MainSliderComponent, ViewComponent, SeazonComponent, MapsComponent, TasteComponent, WineBgComponent, ContactComponent, ContactWithMapComponent, FooterComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
