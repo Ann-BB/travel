@@ -3,11 +3,13 @@ import { IImgContent, IList, ISections } from '../../../models/hedaer-list';
 import { CommonModule } from '@angular/common';
 import { InfoCardComponent } from '../info-card/info-card.component';
 import { ICardConfig } from '../../../models/card.config';
+import { TranslateModule } from '@ngx-translate/core';
+import { SocialInfoComponent } from '../social-info/social-info.component';
 
 @Component({
   selector: 'app-feature-header-content',
   standalone: true,
-  imports: [CommonModule, InfoCardComponent],
+  imports: [CommonModule, TranslateModule, InfoCardComponent, SocialInfoComponent],
   templateUrl: './feature-header-content.component.html',
   styleUrl: './feature-header-content.component.scss',
   schemas: [CUSTOM_ELEMENTS_SCHEMA]

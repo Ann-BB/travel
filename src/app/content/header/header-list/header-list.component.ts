@@ -7,7 +7,7 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-header-list',
   standalone: true,
-  imports: [CommonModule, TranslateModule, FeatureHeaderContentComponent],
+  imports: [TranslateModule, FeatureHeaderContentComponent],
   templateUrl: './header-list.component.html',
   styleUrl: './header-list.component.scss',
   schemas: [CUSTOM_ELEMENTS_SCHEMA]

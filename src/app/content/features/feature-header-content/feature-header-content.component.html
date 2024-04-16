@@ -1,23 +1,28 @@
-<div class="flex justify-around text-black pt-14">
-  @if(list) {
-    @for(item of list|keyvalue; track item) {
-    <div class="flex flex-col">
-      <div class="">
-        {{item.key}} 
-      </div>
-      <div class="flex flex-col justify-between">
-        @for(value of item.value; let i=$index; track i) {
-        <span>{{value}}</span>
+<div class="text-gray-600 body-font">
+  <div class="container px-5 py-10 mx-auto">
+    <div class="flex justify-around md:text-left text-center order-first">
+      @if(list) {
+        @for(item of list|keyvalue; track item) {
+          <div> 
+            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">{{item.key | translate}} </h2>
+            <nav class="list-none mb-10">
+              @for(value of item.value; let i=$index; track i) {
+              <li>
+                <a class="text-gray-600 hover:text-gray-800">{{value | translate}}</a>
+              </li>
+              }
+            </nav>
+          </div>
         }
-      </div>
+      }
+      @if(imgContent) {
+        @for(imgItem of imgContent; track imgItem) {
+        <div>
+          <app-info-card [slide]="imgItem" [cardConfig]="cardConfig" />
+        </div>
+        }
+      }
     </div>
-    }
-  }
-  @if(imgContent) {
-    @for(imgItem of imgContent; track imgItem) {
-    <div>
-      <app-info-card [slide]="imgItem" [cardConfig]="cardConfig" />
-    </div>
-    }
-  }
+  </div>
 </div>
+<app-social-info />
