@@ -1,11 +1,11 @@
-import { CUSTOM_ELEMENTS_SCHEMA, Component, Input, OnInit, SimpleChanges } from '@angular/core';
-import { IImgContent, IList, ISections } from '../../../models/hedaer-list';
+import { CUSTOM_ELEMENTS_SCHEMA, Component, Input, OnInit, SimpleChanges } from '@angular/core'; 
 import { CommonModule } from '@angular/common';
 import { InfoCardComponent } from '../info-card/info-card.component';
 import { ICardConfig } from '../../../models/card.config';
 import { TranslateModule } from '@ngx-translate/core';
 import { SocialInfoComponent } from '../social-info/social-info.component';
-import { RouterLink, RouterModule } from '@angular/router';
+import {  RouterModule } from '@angular/router';
+import { Categories, ImgContent, Section } from '../../../models/details';
 
 @Component({
   selector: 'app-feature-header-content',
@@ -17,13 +17,16 @@ import { RouterLink, RouterModule } from '@angular/router';
 })
 export class FeatureHeaderContentComponent implements OnInit {
 
-  @Input('activeHeaderContent') content?: ISections;
-  list?: IList;
-  imgContent?: IImgContent[];
+  @Input('activeHeaderContent') content?: Section;
+  categories?: Categories;
+  categoryList?: any;
+  imgContent?: ImgContent[];
+
   cardConfig: ICardConfig = { 
     widthSize: '252px',
     heightSize: '300px'
   }
+
   constructor() { }
 
   ngOnInit() {
@@ -35,9 +38,10 @@ export class FeatureHeaderContentComponent implements OnInit {
   }
   runThisLogic(): void {
     // logic in here
-    this.list = this.content?.list;
+    this.categories = this.content?.categories;
     this.imgContent = this.content?.imgContent;
-    console.log(this.content, "activeHeaderContent", this.list, "this.list")
+    // this.categoryList = this.content?.categories.category_1
+    console.log(  this.categories, )
 
   }
 }

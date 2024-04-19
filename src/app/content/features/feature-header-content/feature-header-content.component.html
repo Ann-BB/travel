@@ -1,18 +1,17 @@
 <div class="text-gray-600 body-font">
   <div class="container px-5 py-10 mx-auto">
     <div class="flex justify-around md:text-left text-center order-first">
-      @if(list) {
-        @for(item of list|keyvalue; track item; let id=$index;) {
-          <div> 
-            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">{{item.key | translate}} </h2>
+      @if(categories) {
+        @for(category of categories|keyvalue; track category; let id=$index;) { 
+          <div>   
+            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">{{category.key | translate}} </h2>
             <nav class="list-none mb-10">
-              @for(value of item.value; let i=$index; track i) {
+              @for(item of category.value; let i=$index; track i) {
               <li>
-                <a [routerLink]="'/detail/' + id + i" class="text-gray-600 hover:text-primary">{{value | translate}}</a>
-                {{id}} {{i}}
+                <a [routerLink]="'/detail/' + item.index  + i" class="text-gray-600 hover:text-primary">{{item.title | translate}}</a> 
               </li>
               }
-            </nav>
+            </nav> 
           </div>
         }
       }
