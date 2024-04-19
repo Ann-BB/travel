@@ -2,13 +2,14 @@
   <div class="container px-5 py-10 mx-auto">
     <div class="flex justify-around md:text-left text-center order-first">
       @if(list) {
-        @for(item of list|keyvalue; track item) {
+        @for(item of list|keyvalue; track item; let id=$index;) {
           <div> 
             <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">{{item.key | translate}} </h2>
             <nav class="list-none mb-10">
               @for(value of item.value; let i=$index; track i) {
               <li>
-                <a class="text-gray-600 hover:text-gray-800">{{value | translate}}</a>
+                <a [routerLink]="'/detail/' + id + i" class="text-gray-600 hover:text-primary">{{value | translate}}</a>
+                {{id}} {{i}}
               </li>
               }
             </nav>
@@ -26,3 +27,5 @@
   </div>
 </div>
 <app-social-info />
+
+ 

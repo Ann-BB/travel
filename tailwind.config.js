@@ -2,10 +2,11 @@ const { commonStyles, generateDynamicStyles } = require('./tailwind.plugins');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"], 
+  content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
-      colors: { 
+      colors: {
+        primary: '#ef3a50'
       },
       fontFamily: {
         "regular": ['Montserrat-Regular', 'NoToSans-Regular'],
@@ -20,7 +21,7 @@ module.exports = {
       },
     },
   },
-  plugins: [ 
+  plugins: [
   ],
 }
 

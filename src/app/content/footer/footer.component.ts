@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { SocialIconsComponent } from '../features/social-icons/social-icons.component';
 
 @Component({
   selector: 'app-footer',
   standalone: true,
-  imports: [],
+  imports: [SocialIconsComponent],
   templateUrl: './footer.component.html',
   styleUrl: './footer.component.scss'
 })

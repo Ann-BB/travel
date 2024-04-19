@@ -99,12 +99,12 @@ export class HeaderListComponent {
     this.changeDetectorRefs.detectChanges();
   }
  
-  @HostListener('document:click', ['$event'])
-  clickout(event: PointerEvent) { 
-    if (!this.listElements.some(element => element.nativeElement.contains(event.target))) {
-      this.activeHeaderContent = undefined;
-      this.activeIndex = undefined;
-      this.changeDetectorRefs.detectChanges(); 
-    }  
-  }
+  // @HostListener('document:click', ['$event'])
+  // clickout(event: PointerEvent) { 
+  //   if (!this.listElements.some(element => element.nativeElement.contains(event.target))) {
+  //     this.activeHeaderContent = undefined;
+  //     this.activeIndex = undefined;
+  //     this.changeDetectorRefs.detectChanges(); 
+  //   }  
+  // }
 }

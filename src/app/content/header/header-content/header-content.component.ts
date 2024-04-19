@@ -4,11 +4,12 @@ import { HeaderIconsComponent } from '../header-icons/header-icons.component';
 import { TranslateModule } from '@ngx-translate/core';
 import { CommonModule, DOCUMENT } from '@angular/common';
 import { Observable, debounceTime, distinctUntilChanged, filter, fromEvent, map, pairwise, tap } from 'rxjs';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-header-content',
   standalone: true,
-  imports: [CommonModule, TranslateModule, HeaderListComponent, HeaderIconsComponent],
+  imports: [CommonModule, TranslateModule, RouterModule, HeaderListComponent, HeaderIconsComponent],
   templateUrl: './header-content.component.html',
   styleUrl: './header-content.component.scss'
 })
