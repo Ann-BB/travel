@@ -5,15 +5,18 @@
     <span class="row-2">{{slide.describe | translate}}</span>
  
   </div>
-  <div class="btn-wrapper flex">
-    <a class="btn-1" target="_self" href="">
-      <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span> 
-      <fa-icon [icon]="faArrowRight"></fa-icon> 
-    </a>
-    <a class="btn-1 transparent" target="_self" href="https://georgia.travel/regions/kakheti">
-      <span class="mr-1"> {{"WHITE_BUTTON_FIRST" | translate}} </span> 
-      <fa-icon [icon]="faArrowRight"></fa-icon> 
-    </a> 
-  </div>
+  @if (slide.ctaUrlFirst || slide.ctaUrlSecond) {
+
+    <div class="btn-wrapper flex">
+      <a class="btn-1" target="_self" [href]="slide.ctaUrlFirst">
+        <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span> 
+        <fa-icon [icon]="faArrowRight"></fa-icon> 
+      </a>
+      <a class="btn-1 transparent" target="_self" [href]="slide.ctaUrlSecond">
+        <span class="mr-1"> {{"WHITE_BUTTON_FIRST" | translate}} </span> 
+        <fa-icon [icon]="faArrowRight"></fa-icon> 
+      </a> 
+    </div>
+  }
 
 </div>

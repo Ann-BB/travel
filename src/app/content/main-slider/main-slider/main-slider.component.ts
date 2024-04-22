@@ -15,17 +15,23 @@ export class MainSliderComponent {
     {
       imgBg: "assets/img/main-slider-0.jpg",
       title: "TITLE_0",
-      describe: "DESC_0"  
+      describe: "DESC_0",
+      ctaUrlFirst: "https://travel-theta-ecru.vercel.app/",
+      ctaUrlSecond: "https://georgia.travel/regions/kakheti"
     },
     {
       imgBg: "assets/img/main-slider-1.jpg",
       title: "TITLE_1",
-      describe: "DESC_1"  
+      describe: "DESC_1",
+      ctaUrlFirst: "https://travel-theta-ecru.vercel.app/",
+      ctaUrlSecond: "https://georgia.travel/regions/kakheti"
     },
     {
       imgBg: "assets/img/main-slider-2.jpg",
       title: "TITLE_2",
-      describe: "DESC_2"  
+      describe: "DESC_2",
+      ctaUrlFirst: "https://travel-theta-ecru.vercel.app/",
+      ctaUrlSecond: "https://georgia.travel/regions/kakheti"
     }
   ]
 
