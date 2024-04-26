@@ -6,6 +6,7 @@ import { TranslateModule } from '@ngx-translate/core';
 import { SocialInfoComponent } from '../social-info/social-info.component';
 import {  RouterModule } from '@angular/router';
 import { Categories, ImgContent, Section } from '../../../models/details';
+import { Subscription } from 'rxjs';
 
 @Component({
   selector: 'app-feature-header-content',
@@ -15,8 +16,7 @@ import { Categories, ImgContent, Section } from '../../../models/details';
   styleUrl: './feature-header-content.component.scss',
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
-export class FeatureHeaderContentComponent implements OnInit {
-
+export class FeatureHeaderContentComponent implements OnInit { 
   @Input('activeHeaderContent') content?: Section;
   categories?: Categories;
   categoryList?: any;

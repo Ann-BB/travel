@@ -1,8 +1,4 @@
-.slide {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-
+.slide {  
   &::after {
     position: absolute;
     content: "";
@@ -12,43 +8,15 @@
     bottom: 0;
     background: linear-gradient(0deg, rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), linear-gradient(89.96deg, rgba(0, 0, 0, .7) .03%, transparent 58.88%);
     z-index: 1;
-  }
-
-  .img {
-    position: absolute;
-    // z-index: 0;
-    width: fit-content;
-    left: 0;
-    top: 0;
-    margin: auto;
-    height: 100%;
-    width: 100%;
-  }
-
-  .app-row,
-  .btn-wrapper {
-    position: absolute;
-    z-index: 3;
-    left: 5em;
-  }
-
-  .app-row {
-    top: 0;
-    bottom: 0;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 5em;
-
+  }  
+  .app-row {  
     .row-1 {
       font-size: var(--font-size--6x-large);
       font-weight: 600;
       font-family: var(--font-base);
       color: var(--color-white);
       line-height: 1.3;
-    }
-
+    } 
     .row-2 {
       max-width: 32.5em;
       font-size: var(--font-size--base);
@@ -57,26 +25,16 @@
     }
   }
 
-  .btn-wrapper {
-    top: 78%;
-    gap: 30px;
-
-    .btn-1 {
-      display: inline-flex;
-      justify-content: center;
-      align-items: center;
-      padding: 18px 16px;
+  .btn-wrapper { 
+    .btn-1 { 
       color: var(--color-white);
-      background-color: var(--color-primary);
-      border-radius: 12px;
-      transition: all .2s ease;
-      cursor: pointer;
+      background-color: var(--color-primary); 
+      transition: all .2s ease; 
       border: 1px solid transparent;
 
       &.transparent {
         color: var(--color-white);
-        background-color: transparent;
-        border-radius: 12px;
+        background-color: transparent; 
         border: 1px solid hsla(0, 0%, 100%, .5);
       }
 

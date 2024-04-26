@@ -1,9 +1,4 @@
-.slider-header {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  padding: 0 15px;
-
+.slider-header { 
   .first {
     color: var(--color-black--tint);
     font-size: 18px;
@@ -11,7 +6,7 @@
     line-height: 1;
     margin-left: 18%; 
   }
-
+ 
   .view {
     color: var(--color-primary);
     font-family: var(--font-base--caps);

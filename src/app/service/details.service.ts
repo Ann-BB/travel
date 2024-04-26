@@ -46,7 +46,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_0_2",
+              "title": "HEADER_TITLE_0_7",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -78,7 +78,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_0_3",
+              "title": "HEADER_TITLE_0_8",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -110,7 +110,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_0_4",
+              "title": "HEADER_TITLE_0_9",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -142,7 +142,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_0_5",
+              "title": "HEADER_TITLE_0_10",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -173,7 +173,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_0_6",
+              "title": "HEADER_TITLE_0_11",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -206,7 +206,7 @@ export class DetailsService {
           ],
           "category_0_2": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_0_12",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -238,7 +238,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_2",
+              "title": "HEADER_TITLE_0_13",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -269,7 +269,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_14",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -300,7 +300,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_15",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -331,7 +331,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_16",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -362,7 +362,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_17",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -395,7 +395,7 @@ export class DetailsService {
           ],
           "category_0_3": [
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_18",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -426,7 +426,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_19",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -457,7 +457,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_20",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -488,7 +488,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_2_1",
+              "title": "HEADER_TITLE_0_21",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -519,7 +519,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_0_22",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -550,7 +550,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_0_23",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -584,7 +584,7 @@ export class DetailsService {
         },
         imgContent: [
           {
-            title: "HEADER_IMG_TITLE_1",
+            title: "HEADER_IMG_TITLE_0",
             imgBg: "assets/img/header-img-1"
           }
         ]
@@ -595,9 +595,9 @@ export class DetailsService {
       title: "HEADER_TITLE_1",
       section: {
         categories: {
-          "category_1_1": [
+          "category_1_0": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_0",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -660,7 +660,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_3",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -692,7 +692,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_4",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -724,7 +724,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_5",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -755,7 +755,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_6",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -786,9 +786,9 @@ export class DetailsService {
               ]
             }
           ],
-          "category_1_2": [
+          "category_1_1": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_7",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -820,7 +820,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_8",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -851,7 +851,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_9",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -882,7 +882,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_10",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -913,7 +913,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_11",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -944,7 +944,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_1_12",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -978,11 +978,11 @@ export class DetailsService {
         },
         imgContent: [
           {
-            title: "HEADER_IMG_TITLE_1",
+            title: "HEADER_IMG_TITLE_1_0",
             imgBg: "assets/img/header-img-1"
           },
           {
-            title: "HEADER_IMG_TITLE_1",
+            title: "HEADER_IMG_TITLE_1_1",
             imgBg: "assets/img/header-img-1"
           }
         ]
@@ -995,7 +995,7 @@ export class DetailsService {
         categories: {
           "category_2_1": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_1",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1026,39 +1026,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_2",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-  
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_2",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1090,7 +1058,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_3",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1122,7 +1090,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_4",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1153,7 +1121,39 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+  
+              "title": "HEADER_TITLE_2_5",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_2_6",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1186,7 +1186,7 @@ export class DetailsService {
           ],
           "category_2_2": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_7",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1218,7 +1218,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_8",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1249,7 +1249,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_9",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1280,7 +1280,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_10",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1311,7 +1311,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_11",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1342,7 +1342,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_12",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1375,7 +1375,7 @@ export class DetailsService {
           ],
           "category_2_3": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_13",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1406,7 +1406,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_14",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1437,7 +1437,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_15",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1468,7 +1468,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_2_16",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1497,69 +1497,7 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
+            } 
           ]
         },
         imgContent: [

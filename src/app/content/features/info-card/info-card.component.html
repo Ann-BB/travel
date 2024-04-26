@@ -1,14 +1,25 @@
 @if(slide && cardConfig) {
-<div class="slide" [style.width]="cardConfig.widthSize" [style.height]="cardConfig.heightSize">
-  <img class="img" [src]="slide.imgBg" alt="">
+<div class="slide relative overflow-hidden rounded-xl" [style.width]="cardConfig.widthSize" [style.height]="cardConfig.heightSize">
+  <img class="img absolute h-full top-0 left-0 rounded-xl" [src]="slide.imgBg" alt="">
 
   @if (slide.loveIcon) {
-   <fa-icon class="heart-icon text-lg" [icon]="faHeart"></fa-icon>
+  <svg class="heart-icon absolute right-5 top-5 w-5 h-5 active" version="1.1" viewBox="0 0 256 256" xml:space="preserve"> 
+
+    <defs>
+    </defs>
+    <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+      transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+      <path
+        d="M 84.646 11.504 C 75.554 1.233 58.335 -0.041 45 13.074 C 31.665 -0.041 14.446 1.233 5.354 11.504 c -9.671 10.926 -5.609 31.318 7.123 47.615 C 18.931 67.38 34.874 80.832 45 86.481 c 10.126 -5.649 26.069 -19.101 32.523 -27.362 C 90.255 42.822 94.318 22.43 84.646 11.504 z"
+        style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10;  fill-rule: nonzero; opacity: 1;"
+        transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+    </g>
+  </svg>
   }
-  <div class="app-row">
+  <div class="app-row absolute bottom-8 left-5 flex flex-col items-start justify-center">
     <span class="row-1">{{slide.title | translate}}</span>
     @if (slide.describe) {
-     <span class="row-2">{{slide.describe | translate}}</span>
+    <span class="row-2">{{slide.describe | translate}}</span>
     }
   </div>
 </div>

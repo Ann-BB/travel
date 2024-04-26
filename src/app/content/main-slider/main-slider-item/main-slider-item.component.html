@@ -1,18 +1,17 @@
-<div class="slide">
-  <img class="img" [src]="slide.imgBg" alt="">
-  <div class="app-row">
+<div class="slide relative w-screen h-screen ">
+  <img class="img absolute w-full h-full left-0 top-0 m-auto " [src]="slide.imgBg" alt="">
+  <div class="app-row absolute z-10 left-16 top-0 bottom-0 flex flex-col justify-center gap-10">
     <span class="row-1">{{slide.title | translate}}</span>
-    <span class="row-2">{{slide.describe | translate}}</span>
- 
+    <span class="row-2">{{slide.describe | translate}}</span> 
   </div>
   @if (slide.ctaUrlFirst || slide.ctaUrlSecond) {
 
-    <div class="btn-wrapper flex">
-      <a class="btn-1" target="_self" [href]="slide.ctaUrlFirst">
+    <div class="btn-wrapper flex absolute z-10 left-16 top-3/4 gap-7">
+      <a class="btn-1 inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self" [href]="slide.ctaUrlFirst">
         <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span> 
         <fa-icon [icon]="faArrowRight"></fa-icon> 
       </a>
-      <a class="btn-1 transparent" target="_self" [href]="slide.ctaUrlSecond">
+      <a class="btn-1 transparent inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self" [href]="slide.ctaUrlSecond">
         <span class="mr-1"> {{"WHITE_BUTTON_FIRST" | translate}} </span> 
         <fa-icon [icon]="faArrowRight"></fa-icon> 
       </a> 
