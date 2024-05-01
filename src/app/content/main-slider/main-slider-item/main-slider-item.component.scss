@@ -10,6 +10,8 @@
     z-index: 1;
   }  
   .app-row {  
+    left: 4em;
+    gap: 2.5rem;
     .row-1 {
       font-size: var(--font-size--6x-large);
       font-weight: 600;
@@ -26,22 +28,8 @@
   }
 
   .btn-wrapper { 
-    .btn-1 { 
-      color: var(--color-white);
-      background-color: var(--color-primary); 
-      transition: all .2s ease; 
-      border: 1px solid transparent;
-
-      &.transparent {
-        color: var(--color-white);
-        background-color: transparent; 
-        border: 1px solid hsla(0, 0%, 100%, .5);
-      }
-
-      &:hover {
-        border: 1px solid rgba(239, 58, 80, 0.5);
-        background-color: var(--color-primary--dark);
-      }
-    }
+    left: 4em;
+    gap: 1.75em;
+     
   }
 }

@@ -1,8 +1,14 @@
 .seazon-header {
-  width: 60%;
-  display: grid; 
-  grid-template-columns: 1fr 1.2fr;
-  grid-gap: 120px; 
+  width: 60vw;
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-gap: 3em;
+  margin-top: 8em;
+
+  @media (max-width: 991px) {
+    width: 90vw;
+  }
 
   .row-1 {
     font-size: var(--font-size--4x-large);
@@ -12,10 +18,9 @@
   }
 
   .row-2 {
-    font-size: var(--font-size--medium);
-
-    color: var(--color-grey);
-    font-size: var(--font-size--small);
+    font-size: var(--font-size--medium); 
+    font-weight: 500;
+    color: var(--color-grey); 
     line-height: 1.5;
   }
 }

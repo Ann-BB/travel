@@ -1,0 +1,11 @@
+:host {
+  font-size: 16px;
+  @media (max-width: 991px) {
+    font-size: 10px;
+  }
+}
+.container {
+  gap: 2.25em;
+  margin-top: 8em/* 128px */;
+  margin-bottom: 8em/* 128px */; 
+}

@@ -1,6 +1,6 @@
-import { Routes } from '@angular/router';
-import { HeaderDetailComponent } from './content/pages/header-detail/header-detail.component';
-import { HomeComponent } from './content/pages/home/home.component';
+import { Routes } from '@angular/router'; 
+import { HomeComponent } from './pages/home/home.component';
+import { HeaderDetailComponent } from './pages/header-detail/header-detail.component';
 
 export const routes: Routes = [ 
   {

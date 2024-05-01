@@ -1,7 +1,6 @@
-import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { ActivatedRoute, RouterLink } from '@angular/router';
-import { MainSliderItemComponent } from '../../main-slider/main-slider-item/main-slider-item.component';
+import { ActivatedRoute } from '@angular/router'; 
+import { MainSliderItemComponent } from '../../content/main-slider/main-slider-item/main-slider-item.component';
 
 @Component({
   selector: 'app-header-detail',

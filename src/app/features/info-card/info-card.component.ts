@@ -1,9 +1,9 @@
-import { Component, Input } from '@angular/core';
-import { ICard } from '../../../models/card.model';
-import { ICardConfig } from '../../../models/card.config';
+import { Component, Input } from '@angular/core'; 
 import { TranslateModule } from '@ngx-translate/core';
 import { faHeart,   } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { ICardConfig } from '../../models/card.config';
+import { ICard } from '../../models/card.model';
 
 @Component({
   selector: 'app-info-card',

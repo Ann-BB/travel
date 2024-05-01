@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { SocialIconsComponent } from '../features/social-icons/social-icons.component';
+import { Component } from '@angular/core'; 
+import { SocialIconsComponent } from '../../features/social-icons/social-icons.component';
 
 @Component({
   selector: 'app-footer',

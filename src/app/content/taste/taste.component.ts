@@ -1,10 +1,10 @@
-import { Component } from '@angular/core';
-import { InfoCardComponent } from '../features/info-card/info-card.component';
+import { Component } from '@angular/core'; 
 import { TranslateModule } from '@ngx-translate/core';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { ICard } from '../../models/card.model';
 import { ICardConfig } from '../../models/card.config';
+import { InfoCardComponent } from '../../features/info-card/info-card.component';
 
 @Component({
   selector: 'app-taste',
@@ -32,7 +32,7 @@ export class TasteComponent {
 
     
   cardConfig: ICardConfig = { 
-    widthSize: '350px',
-    heightSize: '426px'
+    widthSize: '22em',
+    heightSize: '26.5em'
   }
 }

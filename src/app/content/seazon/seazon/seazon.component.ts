@@ -3,8 +3,8 @@ import { TranslateModule } from '@ngx-translate/core';
 import { SeazonHeaderComponent } from '../seazon-header/seazon-header.component';
 import { CommonModule } from '@angular/common';
 import { ICard } from '../../../models/card.model';
-import { ICardConfig } from '../../../models/card.config';
-import { InfoCardComponent } from '../../features/info-card/info-card.component';
+import { ICardConfig } from '../../../models/card.config'; 
+import { InfoCardComponent } from '../../../features/info-card/info-card.component';
 
 @Component({
   selector: 'app-seazon',
@@ -41,7 +41,7 @@ export class SeazonComponent {
 
   
   cardConfig: ICardConfig = { 
-    widthSize: '357px',
-    heightSize: '485px'
+    widthSize: '22em',
+    heightSize: '30em'
   }
 }

@@ -1,9 +1,9 @@
 <swiper-container  
-    #swiper class="swiper px-3" direction="horizontal"   
-    [slidesPerView]="'4.5'"
+    #swiper class="swiper px-3" direction="horizontal"
     [loop]="true"
     [speed]="300" 
-    autoplay="false" >
+    autoplay="false" 
+    [breakpoints]="breakpoints">
     @for (item of viewSlider; track $index) {
       <swiper-slide > 
         <app-info-card [slide]="item" [cardConfig]="cardConfig"/> 

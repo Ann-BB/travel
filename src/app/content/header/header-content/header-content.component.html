@@ -2,9 +2,10 @@
  class="header flex justify-between align-middle items-center w-full h-28 fixed text-white hover:bg-white hover:text-black px-6 z-50 left-0 top-0">
  <a routerLink=""> 
    <img class="main-logo w-28 object-contain" src="assets/main-logo.svg" alt="main logo travel">
- </a> 
-  <app-header-list class="h-full" /> 
-  <app-header-icons />
+ </a>  
+ @if(!generalService.isMobile()) {
+   <app-header-list class="h-full" /> 
+   <app-header-icons />
+ }
 </div>
-
  

@@ -1,9 +1,8 @@
 import { CUSTOM_ELEMENTS_SCHEMA, ChangeDetectorRef, Component, ElementRef, HostListener, QueryList, ViewChild, ViewChildren } from '@angular/core';
-import { TranslateModule } from '@ngx-translate/core';
-import { FeatureHeaderContentComponent } from '../../features/feature-header-content/feature-header-content.component';
-import { CommonModule } from '@angular/common';
+import { TranslateModule } from '@ngx-translate/core';  
 import { DetailsService } from '../../../service/details.service';
 import { IDetails, Section } from '../../../models/details';
+import { FeatureHeaderContentComponent } from '../../../features/feature-header-content/feature-header-content.component';
 
 @Component({
   selector: 'app-header-list',

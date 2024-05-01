@@ -1,12 +1,11 @@
 import { CUSTOM_ELEMENTS_SCHEMA, Component, Input, OnInit, SimpleChanges } from '@angular/core'; 
 import { CommonModule } from '@angular/common';
-import { InfoCardComponent } from '../info-card/info-card.component';
-import { ICardConfig } from '../../../models/card.config';
+import { InfoCardComponent } from '../info-card/info-card.component'; 
 import { TranslateModule } from '@ngx-translate/core';
 import { SocialInfoComponent } from '../social-info/social-info.component';
-import {  RouterModule } from '@angular/router';
-import { Categories, ImgContent, Section } from '../../../models/details';
-import { Subscription } from 'rxjs';
+import {  RouterModule } from '@angular/router';  
+import { Categories, ImgContent, Section } from '../../models/details';
+import { ICardConfig } from '../../models/card.config';
 
 @Component({
   selector: 'app-feature-header-content',

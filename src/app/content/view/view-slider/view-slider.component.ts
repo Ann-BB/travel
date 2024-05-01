@@ -1,8 +1,8 @@
-import { CUSTOM_ELEMENTS_SCHEMA, Component } from '@angular/core';
-import { InfoCardComponent } from '../../features/info-card/info-card.component';
+import { CUSTOM_ELEMENTS_SCHEMA, Component } from '@angular/core'; 
 import { CommonModule } from '@angular/common';
 import { ICard } from '../../../models/card.model';
 import { ICardConfig } from '../../../models/card.config';
+import { InfoCardComponent } from '../../../features/info-card/info-card.component';
 
 @Component({
   selector: 'app-view-slider',
@@ -76,4 +76,11 @@ export class ViewSliderComponent {
     widthSize: '320px',
     heightSize: '390px'
   }
+
+  breakpoints = {
+    640: { slidesPerView: 2.5, spaceBetween: 0 },
+    768: { slidesPerView: 3.7, spaceBetween: 10 },
+    1024: { slidesPerView: 3.7, spaceBetween: 10 },
+    1198: { slidesPerView: 4.8, spaceBetween: 10 },
+  };
 }

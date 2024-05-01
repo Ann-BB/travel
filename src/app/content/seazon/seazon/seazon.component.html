@@ -1,5 +1,5 @@
 <app-seazon-header />
-<div class="seazon-wrapper flex flex-wrap gap-10 justify-center mt-16 mx-auto">
+<div class="seazon-wrapper flex flex-wrap justify-center mx-auto">
   @for (item of seazonData; track $index) {
   <app-info-card [slide]="item" [cardConfig]="cardConfig" />
   }

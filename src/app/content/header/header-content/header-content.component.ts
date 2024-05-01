@@ -3,8 +3,9 @@ import { HeaderListComponent } from '../header-list/header-list.component';
 import { HeaderIconsComponent } from '../header-icons/header-icons.component';
 import { TranslateModule } from '@ngx-translate/core';
 import { CommonModule, DOCUMENT } from '@angular/common';
-import { Observable, debounceTime, distinctUntilChanged, filter, fromEvent, map, pairwise, tap } from 'rxjs';
+import { Observable, Subscription, debounceTime, distinctUntilChanged, filter, fromEvent, map, pairwise, tap } from 'rxjs';
 import { RouterModule } from '@angular/router';
+import { GeneralService } from '../../../service/general.service';
 
 @Component({
   selector: 'app-header-content',
@@ -16,7 +17,21 @@ import { RouterModule } from '@angular/router';
 export class HeaderContentComponent {
   // public sticky$?: Observable<boolean>;
   fixed: boolean = false
-  ngAfterViewInit() {
+  resizeSubscription$!: Subscription;
+  resizeWidth?: number;
+  ngOnInit() {
+
+    this.resizeWidth = window.innerWidth;
+  }
+  ngAfterViewInit() { 
+    this.handleScroll();
+    this.handleResize()
+  }
+  constructor(
+    public generalService: GeneralService, 
+  ){ }
+
+  handleScroll() {
     fromEvent(document, "scroll", { passive: false }).pipe(
       debounceTime(50), 
       map(e => window.pageYOffset),  
@@ -28,7 +43,21 @@ export class HeaderContentComponent {
         this.fixed = false;
       } 
     });
-
   }
 
+  private handleResize() {
+    this.resizeSubscription$ = fromEvent(window, 'resize') 
+      .pipe(
+        map(() => window.innerWidth),
+        distinctUntilChanged(),
+        debounceTime(1000)
+      )
+      .subscribe(() => { 
+        this.resizeWidth = window.innerWidth;
+      });
+  } 
+
+  ngOnDestroy() {
+    this.resizeSubscription$.unsubscribe()
+  }
 }
