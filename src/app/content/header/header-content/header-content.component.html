@@ -1,11 +1,30 @@
-<div [class.header-fixed]="fixed"
- class="header flex justify-between align-middle items-center w-full h-28 fixed text-white hover:bg-white hover:text-black px-6 z-50 left-0 top-0">
- <a routerLink=""> 
-   <img class="main-logo w-28 object-contain" src="assets/main-logo.svg" alt="main logo travel">
- </a>  
- @if(!generalService.isMobile()) {
-   <app-header-list class="h-full" /> 
-   <app-header-icons />
- }
-</div>
- 
+<nav [class.header-fixed]="fixed" class="header fixed text-white hover:bg-white hover:text-black z-50 left-0 top-0">
+  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4">
+    <a routerLink="" class="pl-4">
+      <img class="main-logo w-28 object-contain" src="assets/main-logo.svg" alt="main logo travel">
+    </a> 
+    <mat-drawer-container class="example-container pl-4" autosize>
+      <mat-drawer #drawer class="example-sidenav" mode="side">
+        <p>Auto-resizing sidenav</p>
+      </mat-drawer>
+
+      <div class="example-sidenav-content md:hidden"> 
+        <button mat-button (click)="drawer.toggle()" data-collapse-toggle="navbar-multi-level" type="button"
+          class="burger inline-flex items-center w-10 h-10 justify-center text-sm text-white hover:dark:text-gray-600 focus:dark:text-gray-600 rounded-lg"
+          aria-controls="navbar-multi-level" aria-expanded="false">
+          <span class="sr-only">Open main menu</span>
+          <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M1 1h15M1 7h15M1 13h15" />
+          </svg>
+        </button>
+      </div> 
+    </mat-drawer-container>
+    <div class="hidden w-full md:block md:w-auto" id="navbar-multi-level">
+      <app-header-list class="h-full" />
+    </div>
+    <div class="hidden w-full md:block md:w-auto pr-4" id="navbar-multi-level">
+      <app-header-icons />
+    </div>
+  </div>
+</nav>

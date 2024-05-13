@@ -1,5 +1,7 @@
-.header {  
-  transition: background-color 0.3s ease; 
+.header {
+  transition: background-color 0.3s ease;
+  width: 100%;
+
   &.header-fixed {
     position: fixed;
     left: 0;
@@ -7,5 +9,19 @@
     margin: auto;
     background-color: #fff;
     color: black;
+
+    .burger {
+      color: rgb(75, 85, 99, 0.6);
+    }
   }
+
+  &:hover {
+    .burger {
+      color: rgb(75, 85, 99, 0.6);
+    }
+  }
+}   
+.example-sidenav {
+  padding: 20px;
+  background-color: red;
 }
