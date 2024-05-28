@@ -46,6 +46,165 @@ export class DetailsService {
               ]
             },
             {
+              "title": "HEADER_TITLE_0_2",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+  
+              "title": "HEADER_TITLE_0_3",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+  
+              "title": "HEADER_TITLE_0_4",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            } 
+          ],
+          "category_0_2": [
+            { 
+              "title": "HEADER_TITLE_0_5",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_0_6",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            { 
               "title": "HEADER_TITLE_0_7",
               "index": "55",
               "firstSection": {
@@ -77,7 +236,6 @@ export class DetailsService {
               ]
             },
             {
-  
               "title": "HEADER_TITLE_0_8",
               "index": "55",
               "firstSection": {
@@ -107,9 +265,10 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            },
+            } 
+          ],
+          "category_0_3": [
             {
-  
               "title": "HEADER_TITLE_0_9",
               "index": "55",
               "firstSection": {
@@ -141,7 +300,6 @@ export class DetailsService {
               ]
             },
             {
-  
               "title": "HEADER_TITLE_0_10",
               "index": "55",
               "firstSection": {
@@ -202,9 +360,7 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            }
-          ],
-          "category_0_2": [
+            },
             {
               "title": "HEADER_TITLE_0_12",
               "index": "55",
@@ -235,351 +391,7 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            },
-            {
-  
-              "title": "HEADER_TITLE_0_13",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_14",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_15",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_16",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_17",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
-          ],
-          "category_0_3": [
-            {
-              "title": "HEADER_TITLE_0_18",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_19",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_20",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_21",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_22",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_0_23",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
+            } 
           ]
         },
         imgContent: [
@@ -597,7 +409,7 @@ export class DetailsService {
         categories: {
           "category_1_0": [
             {
-              "title": "HEADER_TITLE_1_0",
+              "title": "HEADER_TITLE_1_1",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -784,9 +596,7 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            }
-          ],
-          "category_1_1": [
+            },
             {
               "title": "HEADER_TITLE_1_7",
               "index": "55",
@@ -817,9 +627,10 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            },
+            }
+          ],
+          "category_1_1": [
             {
-  
               "title": "HEADER_TITLE_1_8",
               "index": "55",
               "firstSection": {
@@ -851,6 +662,7 @@ export class DetailsService {
               ]
             },
             {
+  
               "title": "HEADER_TITLE_1_9",
               "index": "55",
               "firstSection": {
@@ -945,6 +757,68 @@ export class DetailsService {
             },
             {
               "title": "HEADER_TITLE_1_12",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_1_13",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_1_14",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1340,165 +1214,8 @@ export class DetailsService {
                   "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
                 }
               ]
-            },
-            {
-              "title": "HEADER_TITLE_2_12",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
-          ],
-          "category_2_3": [
-            {
-              "title": "HEADER_TITLE_2_13",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_2_14",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_2_15",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_2_16",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
             } 
-          ]
+          ] 
         },
         imgContent: [
           {
@@ -1515,7 +1232,7 @@ export class DetailsService {
         categories: {
           "category_3_1": [
             {
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_3_1",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1546,39 +1263,7 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_2",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-  
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_3_2",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1610,7 +1295,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_3_3",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1642,7 +1327,7 @@ export class DetailsService {
             },
             {
   
-              "title": "HEADER_TITLE_1_1",
+              "title": "HEADER_TITLE_3_4",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1673,7 +1358,225 @@ export class DetailsService {
               ]
             },
             {
-              "title": "HEADER_TITLE_1_1",
+  
+              "title": "HEADER_TITLE_3_5",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_6",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_7",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_8",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_9",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_10",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_11",
+              "index": "55",
+              "firstSection": {
+                "title": "Bakhmaro",
+                "content": "Free your mind in a cozy village, with no cars in winter.",
+                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+              },
+              "secondSection": [
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                },
+                {
+                  "title": "Bakhmaro",
+                  "content": "Free your mind in a cozy village, with no cars in winter.",
+                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
+                }
+              ]
+            },
+            {
+              "title": "HEADER_TITLE_3_12",
               "index": "55",
               "firstSection": {
                 "title": "Bakhmaro",
@@ -1703,386 +1606,17 @@ export class DetailsService {
                 }
               ]
             }
-          ],
-          "category_3_2": [
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-  
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
-          ],
-          "category_3_3": [
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            },
-            {
-              "title": "HEADER_TITLE_1_1",
-              "index": "55",
-              "firstSection": {
-                "title": "Bakhmaro",
-                "content": "Free your mind in a cozy village, with no cars in winter.",
-                "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-              },
-              "secondSection": [
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                },
-                {
-                  "title": "Bakhmaro",
-                  "content": "Free your mind in a cozy village, with no cars in winter.",
-                  "url": "https:\/\/www.instagram.com\/p\/CV3D_3WsRby\/",
-                }
-              ]
-            }
-          ]
+          ] 
         },
         imgContent: [
+          {
+            title: "HEADER_IMG_TITLE_1",
+            imgBg: "assets/img/header-img-1"
+          },
+          {
+            title: "HEADER_IMG_TITLE_1",
+            imgBg: "assets/img/header-img-1"
+          },
           {
             title: "HEADER_IMG_TITLE_1",
             imgBg: "assets/img/header-img-1"

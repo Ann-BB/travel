@@ -1,5 +1,6 @@
 .header-txt {
   gap: 5em;
+  justify-content: space-around;
 }
 
 .feature-header {
@@ -12,6 +13,7 @@
 
 .costm-item {
   position: relative;
+  height: 100%;
 
   &.active {
     &::after { 
@@ -29,5 +31,17 @@
     transform: scaleX(0);
     background-color: var(--color-primary);
     transition: transform .2s ease;
+  }
+}
+
+@media (max-width: 575px) {
+  .header-txt {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1em;
+    justify-content: flex-start;
+  }
+  .costm-item { 
+    height: fit-content;
   }
 }

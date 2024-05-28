@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { TranslateModule } from '@ngx-translate/core';
@@ -13,4 +13,5 @@ import { TranslateModule } from '@ngx-translate/core';
 export class CtaBtnComponent {
   ctaUrl: string = '';
   faArrowRight = faArrowRight;
+  @Input() isTransperent: boolean = true;
 }

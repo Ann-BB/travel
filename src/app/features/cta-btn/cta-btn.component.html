@@ -1,4 +1,6 @@
-<a class="btn inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self" [href]="ctaUrl">
-  <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span> 
-  <fa-icon [icon]="faArrowRight"></fa-icon> 
+<a class="btn inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self"
+[class.transparent]="isTransperent"
+  [href]="ctaUrl">
+  <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span>
+  <fa-icon [icon]="faArrowRight"></fa-icon>
 </a>

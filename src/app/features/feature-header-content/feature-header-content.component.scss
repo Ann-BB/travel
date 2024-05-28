@@ -1,0 +1,18 @@
+.categories { 
+  align-items: center;
+}
+
+.categories-container {
+  padding: 2.5rem 1.25rem;
+}
+
+@media (max-width: 575px) {
+  .categories { 
+
+    flex-direction: column;
+    align-items: flex-start;
+  } 
+  .categories-container {
+    padding: 1rem;
+  }
+}

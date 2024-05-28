@@ -12,6 +12,7 @@
 
     .burger {
       color: rgb(75, 85, 99, 0.6);
+      cursor: pointer;
     }
   }
 
@@ -20,8 +21,46 @@
       color: rgb(75, 85, 99, 0.6);
     }
   }
-}   
-.example-sidenav {
-  padding: 20px;
-  background-color: red;
+}
+
+.sidebar-slider {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  transform: translateX(100%);
+  transition: ease-in-out 300ms transform;
+  width: 80vw;
+  min-width: 290px;
+  max-width: 300px;
+  height: 100%;
+  padding: .75rem 1rem; 
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+  .sidebar-close {
+    height: fit-content;
+    width: fit-content;
+    padding: 10px 15px;
+    border-radius: 100%;
+    cursor: pointer;
+    border: 1px solid #777373;
+  }
+}
+
+.sidebar-slider.sidebar-slide-in {
+  transform: translateX(0%);
+  transition: ease-in-out 600ms transform;
+}
+
+.sidebar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  font-size: 16px;
+  padding: 16px;
+  height: 100%;
 }

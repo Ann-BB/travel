@@ -7,17 +7,17 @@
   @if (slide.ctaUrlFirst || slide.ctaUrlSecond) { 
     
     <div class="btn-wrapper flex absolute z-10 top-3/4">
-      <app-cta-btn />
+      <app-cta-btn [isTransperent]="false" />
+      <app-cta-btn  [isTransperent]="true"/>
       <!-- <a class="btn-1 inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self" [href]="slide.ctaUrlFirst">
         <span class="mr-1">{{"RED_BUTTON_FIRST" | translate}}</span> 
         <fa-icon [icon]="faArrowRight"></fa-icon> 
-      </a> -->
-      <app-cta-btn />
+      </a>
 
       <a class="btn-1 transparent inline-flex justify-center items-center py-4 px-4 rounded-xl cursor-pointer" target="_self" [href]="slide.ctaUrlSecond">
         <span class="mr-1"> {{"WHITE_BUTTON_FIRST" | translate}} </span> 
         <fa-icon [icon]="faArrowRight"></fa-icon> 
-      </a> 
+      </a>  -->
     </div>
   }
 
